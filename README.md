@@ -78,7 +78,7 @@ src="https://img.shields.io/twitter/follow/Shravanbhati01?logo=twitter&style=for
 <!-- Holopin Badges -->
 ## Holopin Badges 🎖️📛🏷️
 
-[![An image of @dampdigits's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dampdigits)](https://holopin.io/@dampdigits)
+[![An image of @shravanbhati's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shravanbhati)](https://holopin.io/@shravanbhati)
 
 <!--Gists-->
 ## Github Gists 📜
