@@ -18,6 +18,7 @@ I am a Web developer in Rajasthan, India. I am an undergraduate Student. I am ve
 * ✉️  You can contact me at [shravanbhati0098@gmail.com](mailto:shravanbhati0098@gmail.com)
 * 🧠  I'm learning Web development
 * 🤝  I'm open to collaborating on Interesting Projects
+* ⚡ I'm Japan Enthusiast
 
 <a href="https://www.github.com/shravanbhati" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/shravanbhati?logo=github&style=for-the-badge&color=ef4444&labelColor=000000" /></a><a href="https://www.x.com/Shravanbhati01" target="_blank" rel="noreferrer"><img
