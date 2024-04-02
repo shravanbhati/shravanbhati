@@ -1,4 +1,13 @@
-<h1 align="center">Hi 👋, I'm Shravan Bhati</h1>
+<!-- Banner -->
+<picture>
+  <!-- dark theme -->
+  <source media="(prefers-color-scheme: dark)" srcset="banners/dampdigitsDarknobg.png">
+  <!-- light theme -->
+  <source media="(prefers-color-scheme: light)" srcset="banners/dampdigitsWhitebg.jpg">
+  <img alt="banner" src="banners/dampdigitsDarkbg.jpg">
+</picture>
+
+<h1 align="center">Hi, 👋 I'm Shravan Bhati</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
 
