@@ -27,16 +27,72 @@ src="https://img.shields.io/twitter/follow/Shravanbhati01?logo=twitter&style=for
 <p align="left"> <a href="https://www.dev.to/shravanbhati" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /> </picture> </a> <a href="https://discord.com/users/dev.shravan " target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/shravanbhati" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/dev.shravan.in" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/shravanbhati" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/Shravanbhati01" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
 
 
-<b>My GitHub Stats</b>
+<!-- Github Stats -->
+## Github stats 📊📈
+<!-- Dark Mode -->
+<a href="https://github.com/dampdigits#gh-dark-mode-only">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dampdigits&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,issues,contribs&rank_icon=github&show_icons=true&hide=reviews,discussions_answered,prs,prs_merged&theme=radical&hide_border=true#gh-dark-mode-only" />
+</a>
+<!-- Light Mode -->
+<a href="https://github.com/dampdigits#gh-light-mode-only">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dampdigits&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,issues,contribs&rank_icon=github&show_icons=true&hide=reviews,discussions_answered,prs,prs_merged&theme=shadow_green#gh-light-mode-only" />
+</a>
+<!-- Most used languages -->
+<!-- Dark Mode -->
+<a href="https://github.com/dampdigits#gh-dark-mode-only">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dampdigits&layout=compact&langs_count=20&size_weight=0.4&theme=radical&hide_border=true&card_width=404#gh-dark-mode-only" />
+</a>
+<!-- Light Mode -->
+<a href="https://github.com/dampdigits#gh-light-mode-only">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dampdigits&layout=compact&langs_count=20&size_weight=0.4&theme=shadow_green&card_width=404#gh-light-mode-only" />
+</a>
 
-<a href="http://www.github.com/shravanbhati"><img src="https://github-readme-stats.vercel.app/api?username=shravanbhati&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&show_icons=true" alt="shravanbhati's GitHub stats" /></a>
+<!-- Github streak -->
+<picture>
+  <!-- Dark Mode -->
+  <source
+    srcset="https://streak-stats.demolab.com?user=dampdigits&theme=radical&card_width=804&hide_border=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <!-- Light Mode -->
+  <source
+    srcset="https://streak-stats.demolab.com?user=dampdigits&theme=shadow_green&card_width=804"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img alt="GitHub Streak" src="https://github.com/dampdigits" />
+</picture>
 
-<a href="http://www.github.com/shravanbhati"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shravanbhati&stroke=ffffff&background=000000&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<!-- Activity Graph -->
+<!-- Dark Mode -->
+[![Sameer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dampdigits&theme=redical&hide_border=true#gh-dark-mode-only)](https://github.com/dampdigits#gh-dark-mode-only)
+<!-- Light Mode -->
+[![Sameer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dampdigits&theme=github-light#gh-light-mode-only)](https://github.com/dampdigits#gh-light-mode-only)
 
-<a href="http://www.github.com/shravanbhati"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=shravanbhati&bg_color=000000&color=ffffff&line=ef4444&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<!-- Holopin Badges -->
+## Holopin Badges 🎖️📛🏷️
 
-<a href="https://github.com/shravanbhati" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shravanbhati&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+[![An image of @dampdigits's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dampdigits)](https://holopin.io/@dampdigits)
 
+<!--Gists-->
+## Github Gists 📜
+<!-- Gist-1 -->
+<!-- Dark Mode -->
+<a href="https://gist.github.com/dampdigits/a1fbcf15c46dbe639f69930038ca43d3#gh-dark-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api/gist?id=a1fbcf15c46dbe639f69930038ca43d3&theme=radical&hide_border=true#gh-dark-mode-only" />
+</a>
+<!-- Light Mode -->
+<a href="https://gist.github.com/dampdigits/a1fbcf15c46dbe639f69930038ca43d3#gh-light-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api/gist?id=a1fbcf15c46dbe639f69930038ca43d3&theme=shadow_green#gh-light-mode-only" />
+</a>
+<!-- Gist-2 -->
+<!-- Dark Mode -->
+<a href="https://gist.github.com/dampdigits/abefc4c97287c6d91a3ea113de03d739#gh-dark-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api/gist?id=abefc4c97287c6d91a3ea113de03d739&theme=radical&hide_border=true" />
+</a>
+<!-- Light Mode -->
+<a href="https://gist.github.com/dampdigits/abefc4c97287c6d91a3ea113de03d739#gh-light-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api/gist?id=abefc4c97287c6d91a3ea113de03d739&theme=shadow_green" />
+</a>
 
 
 
