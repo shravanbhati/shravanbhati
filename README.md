@@ -37,43 +37,43 @@ src="https://img.shields.io/twitter/follow/Shravanbhati01?logo=twitter&style=for
 <!-- Github Stats -->
 ## Github stats 📊📈
 <!-- Dark Mode -->
-<a href="https://github.com/dampdigits#gh-dark-mode-only">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dampdigits&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,issues,contribs&rank_icon=github&show_icons=true&hide=reviews,discussions_answered,prs,prs_merged&theme=radical&hide_border=true#gh-dark-mode-only" />
+<a href="https://github.com/shravanbhati#gh-dark-mode-only">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=shravanbhati&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,issues,contribs&rank_icon=github&show_icons=true&hide=reviews,discussions_answered,prs,prs_merged&theme=radical&hide_border=true#gh-dark-mode-only" />
 </a>
 <!-- Light Mode -->
-<a href="https://github.com/dampdigits#gh-light-mode-only">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dampdigits&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,issues,contribs&rank_icon=github&show_icons=true&hide=reviews,discussions_answered,prs,prs_merged&theme=shadow_green#gh-light-mode-only" />
+<a href="https://github.com/shravanbhati#gh-light-mode-only">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=shravanbhati&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,issues,contribs&rank_icon=github&show_icons=true&hide=reviews,discussions_answered,prs,prs_merged&theme=shadow_green#gh-light-mode-only" />
 </a>
 <!-- Most used languages -->
 <!-- Dark Mode -->
-<a href="https://github.com/dampdigits#gh-dark-mode-only">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dampdigits&layout=compact&langs_count=20&size_weight=0.4&theme=radical&hide_border=true&card_width=404#gh-dark-mode-only" />
+<a href="https://github.com/shravanbhati#gh-dark-mode-only">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shravanbhati&layout=compact&langs_count=20&size_weight=0.4&theme=radical&hide_border=true&card_width=404#gh-dark-mode-only" />
 </a>
 <!-- Light Mode -->
 <a href="https://github.com/dampdigits#gh-light-mode-only">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dampdigits&layout=compact&langs_count=20&size_weight=0.4&theme=shadow_green&card_width=404#gh-light-mode-only" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shravanbhati&layout=compact&langs_count=20&size_weight=0.4&theme=shadow_green&card_width=404#gh-light-mode-only" />
 </a>
 
 <!-- Github streak -->
 <picture>
   <!-- Dark Mode -->
   <source
-    srcset="https://streak-stats.demolab.com?user=dampdigits&theme=radical&card_width=804&hide_border=true"
+    srcset="https://streak-stats.demolab.com?user=shravanbhati&theme=radical&card_width=804&hide_border=true"
     media="(prefers-color-scheme: dark)"
   />
   <!-- Light Mode -->
   <source
-    srcset="https://streak-stats.demolab.com?user=dampdigits&theme=shadow_green&card_width=804"
+    srcset="https://streak-stats.demolab.com?user=shravanbhati&theme=shadow_green&card_width=804"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img alt="GitHub Streak" src="https://github.com/dampdigits" />
+  <img alt="GitHub Streak" src="https://github.com/shravanbhati" />
 </picture>
 
 <!-- Activity Graph -->
 <!-- Dark Mode -->
-[![Sameer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dampdigits&theme=redical&hide_border=true#gh-dark-mode-only)](https://github.com/dampdigits#gh-dark-mode-only)
+[![Sameer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shravanbhati&theme=redical&hide_border=true#gh-dark-mode-only)](https://github.com/shravanbhati#gh-dark-mode-only)
 <!-- Light Mode -->
-[![Sameer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dampdigits&theme=github-light#gh-light-mode-only)](https://github.com/dampdigits#gh-light-mode-only)
+[![Sameer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shravanbhati&theme=github-light#gh-light-mode-only)](https://github.com/shravanbhati#gh-light-mode-only)
 
 <!-- Holopin Badges -->
 ## Holopin Badges 🎖️📛🏷️
@@ -84,7 +84,7 @@ src="https://img.shields.io/twitter/follow/Shravanbhati01?logo=twitter&style=for
 ## Github Gists 📜
 <!-- Gist-1 -->
 <!-- Dark Mode -->
-<a href="https://gist.github.com/dampdigits/a1fbcf15c46dbe639f69930038ca43d3#gh-dark-mode-only">
+<a href="https://gist.github.com/shravanbhati/a1fbcf15c46dbe639f69930038ca43d3#gh-dark-mode-only">
   <img src="https://github-readme-stats.vercel.app/api/gist?id=a1fbcf15c46dbe639f69930038ca43d3&theme=radical&hide_border=true#gh-dark-mode-only" />
 </a>
 <!-- Light Mode -->
