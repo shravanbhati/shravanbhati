@@ -76,9 +76,9 @@ src="https://img.shields.io/twitter/follow/Shravanbhati01?logo=twitter&style=for
 [![Sameer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shravanbhati&theme=github-light#gh-light-mode-only)](https://github.com/shravanbhati#gh-light-mode-only)
 
 <!-- Holopin Badges -->
-## Holopin Badges 🎖️📛🏷️
+<!--## Holopin Badges 🎖️📛🏷️
 
-[![An image of @shravanbhati's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shravanbhati)](https://holopin.io/@shravanbhati)
+[![An image of @shravanbhati's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shravanbhati)](https://holopin.io/@shravanbhati) -->
 
 <!--Gists-->
 ## Github Gists 📜
