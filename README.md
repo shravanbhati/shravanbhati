@@ -27,6 +27,7 @@ src="https://img.shields.io/twitter/follow/Shravanbhati01?logo=twitter&style=for
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shravanbhati&label=PROFILE+VIEWS"> &nbsp; <a href="https://discordapp.com/users/944256541937250367"><img src="https://dcbadge.vercel.app/api/shield/944256541937250367?theme=discord-inverted&&logoColor=presence&&style=social"></a>
 </p> 
+
 ### Skills
 
 <p align="left">
