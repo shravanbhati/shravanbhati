@@ -46,7 +46,7 @@ src="https://img.shields.io/twitter/follow/Shravanbhati01?logo=twitter&style=for
 ## Github stats 📊📈
 <!-- Dark Mode -->
 <a href="https://github.com/shravanbhati#gh-dark-mode-only">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=shravanbhati&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,issues,contribs&rank_icon=github&show_icons=true&hide=reviews,discussions_answered,prs,prs_merged&theme=radical&hide_border=true#gh-dark-mode-only" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=shravanbhati&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,issues,contribs&rank_icon=github&show_icons=true&hide=reviews,discussions_answered,prs,prs_merged&theme=radical&hide_border=true#gh-dark-mode-only" />
 </a>
 <!-- Light Mode -->
 <a href="https://github.com/shravanbhati#gh-light-mode-only">
@@ -59,7 +59,7 @@ src="https://img.shields.io/twitter/follow/Shravanbhati01?logo=twitter&style=for
 </a>
 <!-- Light Mode -->
 <a href="https://github.com/dampdigits#gh-light-mode-only">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shravanbhati&layout=compact&langs_count=20&size_weight=0.4&theme=shadow_green&card_width=404#gh-light-mode-only" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shravanbhati&layout=compact&langs_count=20&size_weight=0.4&theme=shadow_green&card_width=404#gh-light-mode-only" />
 </a>
 
 <!-- Github streak -->
