@@ -50,7 +50,7 @@ src="https://img.shields.io/twitter/follow/Shravanbhati01?logo=twitter&style=for
 </a>
 <!-- Light Mode -->
 <a href="https://github.com/shravanbhati#gh-light-mode-only">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=shravanbhati&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,issues,contribs&rank_icon=github&show_icons=true&hide=reviews,discussions_answered,prs,prs_merged&theme=shadow_green#gh-light-mode-only" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=shravanbhati&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,issues,contribs&rank_icon=github&show_icons=true&hide=reviews,discussions_answered,prs,prs_merged&theme=shadow_green#gh-light-mode-only" />
 </a>
 <!-- Most used languages -->
 <!-- Dark Mode -->
@@ -59,7 +59,7 @@ src="https://img.shields.io/twitter/follow/Shravanbhati01?logo=twitter&style=for
 </a>
 <!-- Light Mode -->
 <a href="https://github.com/dampdigits#gh-light-mode-only">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shravanbhati&layout=compact&langs_count=20&size_weight=0.4&theme=shadow_green&card_width=404#gh-light-mode-only" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shravanbhati&layout=compact&langs_count=20&size_weight=0.4&theme=shadow_green&card_width=404#gh-light-mode-only" />
 </a>
 
 <!-- Github streak -->
@@ -83,3 +83,6 @@ src="https://img.shields.io/twitter/follow/Shravanbhati01?logo=twitter&style=for
 <!-- Light Mode -->
 [![Sameer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shravanbhati&theme=github-light#gh-light-mode-only)](https://github.com/shravanbhati#gh-light-mode-only)
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/48355572/209539106-8e1cbfc6-2f3d-4afd-b96a-890d967dd9ab.png">
+</p>
