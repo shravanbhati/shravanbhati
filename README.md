@@ -84,7 +84,7 @@ src="https://img.shields.io/twitter/follow/Shravanbhati01?logo=twitter&style=for
     srcset="https://streak-stats.demolab.com?user=shravanbhati&theme=shadow_green&card_width=804"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img alt="GitHub Streak" src="https://github.com/shravanbhati" />
+  <img height=150  alt="GitHub Streak" src="https://github.com/shravanbhati" />
 </picture>
 
 <!-- Activity Graph -->
