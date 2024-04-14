@@ -42,10 +42,6 @@ src="https://img.shields.io/twitter/follow/Shravanbhati01?logo=twitter&style=for
   <img src="https://user-images.githubusercontent.com/48355572/209539106-8e1cbfc6-2f3d-4afd-b96a-890d967dd9ab.png">
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/48355572/209539106-8e1cbfc6-2f3d-4afd-b96a-890d967dd9ab.png">
-</p>
-
 <img src="https://user-images.githubusercontent.com/48355572/272910172-1266ac8f-a1de-43d9-94f9-44a0a90b67a0.png" alt="Activity" width="130px"/>
 <table><tr><td valign="top" width="41%">
 <a href="https://www.instagram.com/neilzblaze"><img src="https://res.cloudinary.com/dutfy6mlc/image/upload/v1696511607/j716mmpp877n3lvlvck5.webp" width="413px"></a>
@@ -55,6 +51,9 @@ src="https://img.shields.io/twitter/follow/Shravanbhati01?logo=twitter&style=for
 <a href="https://calendly.com/neilblaze/meetings"><img src="https://i.postimg.cc/8zMy25r3/schedule-Ca-L.webp" width="210px"></a>
 </td></tr></table>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/48355572/209539106-8e1cbfc6-2f3d-4afd-b96a-890d967dd9ab.png">
+</p>
 <!-- Github Stats -->
 ## Github stats 📊📈
 <!-- Dark Mode -->
