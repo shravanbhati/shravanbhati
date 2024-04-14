@@ -11,7 +11,7 @@
 <h3 align="center">A passionate Web developer from India</h3>
 
 
-I am a Web developer in Rajasthan, India. I am an undergraduate Student. I am very passionate about improving my coding skills & developing websites and bots. HTML,CSS and javascript Based developer. Working for myself to improve my skills
+I'm Shravan, a web development student currently burning the midnight oil in my undergrad program. What gets me excited is crafting websites that are user-friendly and visually awesome. Think of it as building online spaces that are easy to navigate and a joy to use. I'm also pretty fascinated by the idea of bots that can automate tasks and make life simpler. While I've got a solid grasp of the essential web dev languages – HTML, CSS, and JavaScript – I'm always learning and exploring new stuff to stay on top of this ever-changing tech world.
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Shravan Bhati's Portfolio](http://shravanbhati.github.io)
