@@ -50,7 +50,9 @@ src="https://img.shields.io/twitter/follow/Shravanbhati01?logo=twitter&style=for
 <p align="center">
   <img src="https://user-images.githubusercontent.com/48355572/209539106-8e1cbfc6-2f3d-4afd-b96a-890d967dd9ab.png">
 </p>
+
 <!-- Github Stats -->
+
 ## Github stats 📊📈
 <!-- Dark Mode -->
 <a href="https://github.com/shravanbhati#gh-dark-mode-only">
