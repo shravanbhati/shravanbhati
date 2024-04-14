@@ -87,14 +87,14 @@ src="https://img.shields.io/twitter/follow/Shravanbhati01?logo=twitter&style=for
     srcset="https://streak-stats.demolab.com?user=shravanbhati&theme=shadow_green&card_width=804"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height=150  alt="GitHub Streak" src="https://github.com/shravanbhati" />
+  <img height=250 alt="GitHub Streak" src="https://github.com/shravanbhati" />
 </picture>
 
 <!-- Activity Graph -->
 <!-- Dark Mode -->
-[![Sameer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shravanbhati&theme=redical&hide_border=true#gh-dark-mode-only)](https://github.com/shravanbhati#gh-dark-mode-only)
+[![Shravan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shravanbhati&theme=redical&hide_border=true#gh-dark-mode-only)](https://github.com/shravanbhati#gh-dark-mode-only)
 <!-- Light Mode -->
-[![Sameer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shravanbhati&theme=github-light#gh-light-mode-only)](https://github.com/shravanbhati#gh-light-mode-only)
+[![Shravan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shravanbhati&theme=github-light#gh-light-mode-only)](https://github.com/shravanbhati#gh-light-mode-only)
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/48355572/209539106-8e1cbfc6-2f3d-4afd-b96a-890d967dd9ab.png">
