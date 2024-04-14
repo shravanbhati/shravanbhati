@@ -19,6 +19,7 @@ I'm Shravan, a web development student currently burning the midnight oil in my 
 * 🧠  I'm learning Web development
 * 🤝  I'm open to collaborating on Interesting Projects
 * ⚡ I'm Japan Enthusiast
+<img align='right' src='https://user-images.githubusercontent.com/48355572/205913210-a40d093c-c40f-4cf7-b6ec-c67cd953476a.png' width='177'>
 
 <a href="https://www.github.com/shravanbhati" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/shravanbhati?logo=github&style=for-the-badge&color=ef4444&labelColor=000000" /></a><a href="https://www.x.com/Shravanbhati01" target="_blank" rel="noreferrer"><img
