@@ -47,8 +47,10 @@ src="https://img.shields.io/twitter/follow/Shravanbhati01?logo=twitter&style=for
 </td><td valign="top" width="40%">
 <a href="https://open.spotify.com/user/31z243m7r4unjzda5dxa4b3reymy"><img src="https://spotify-recently-played-readme.vercel.app/api?user=31z243m7r4unjzda5dxa4b3reymy&width=380&count=2" width="380px"></a>
 </td><td valign="top" width="18%">
-<a href="https://calendly.com/neilblaze/meetings"><img src="https://i.postimg.cc/8zMy25r3/schedule-Ca-L.webp" width="210px"></a>
+<a href="/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Rotating_earth_%28large%29.gif" width="210px"></a>
 </td></tr></table>
+
+<iframe src="https://giphy.com/embed/nBvri64uO4sX6" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/naruto-shippuden-nBvri64uO4sX6"></a></p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/48355572/209539106-8e1cbfc6-2f3d-4afd-b96a-890d967dd9ab.png">
