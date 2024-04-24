@@ -15,7 +15,7 @@ I'm Shravan, a web development student currently burning the midnight oil in my 
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Shravan Bhati's Portfolio](http://shravanbhati.github.io)
-* ✉️  You can contact me at [shravanbhati0098@gmail.com](mailto:shravanbhati0098@gmail.com)
+* ✉️  You can contact me at [dev.shravanbhati@gmail.com](mailto:dev.shravanbhati@gmail.com)
 * 🧠  I'm learning Web development
 * 🤝  I'm open to collaborating on Interesting Projects
 * ⚡ I'm Japan Enthusiast
