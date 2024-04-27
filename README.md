@@ -38,10 +38,9 @@ src="https://img.shields.io/twitter/follow/Shravanbhati01?logo=twitter&style=for
 <p>
 <a href="https://twitter.com/shravanbhati01"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971257-f667150e-17c2-469c-8f9f-24810c4ab522.svg"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/shravanbhati"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971352-d164e286-ffd8-4aac-a95b-88e499cdc386.svg"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/dev.shravan.in"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971691-1a612ff3-ac3b-456a-8237-aa74a423b59c.svg"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/dev.shravanbhati"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971691-1a612ff3-ac3b-456a-8237-aa74a423b59c.svg"></a>&nbsp;&nbsp;
 <a href="https://discordapp.com/users/944256541937250367"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971778-7a331eb0-d413-4a03-a142-1370a89f6cb2.svg"></a>&nbsp;&nbsp;
 <a href="https://t.me/shravanbhati1"><img height="30" src="https://user-images.githubusercontent.com/48355572/236772531-7db4cd51-557a-4c63-8618-10716786ccde.svg"></a>&nbsp;&nbsp;
-<a href="https://gitlab.com/shravanbhati"><img height="29" src="https://user-images.githubusercontent.com/48355572/229457184-524c372d-8067-48ac-a09e-444010da9ffd.png"></a>&nbsp;&nbsp;
 <a href="https://www.youtube.com/@dev.shravan"><img height="30" src="https://user-images.githubusercontent.com/48355572/226551770-c02e6606-b4bf-4cfa-9f95-e36147025a5d.svg"></a>&nbsp;&nbsp;
 <a href="https://dev.to/shravanbhati"><img height="28" src="https://user-images.githubusercontent.com/48355572/212684775-78ac7f41-a3d4-4ceb-910a-2bb635035cc2.png"></a>&nbsp;&nbsp;
 <a href="https://open.spotify.com/user/31z243m7r4unjzda5dxa4b3reymy"><img height="30" src="https://user-images.githubusercontent.com/48355572/213890881-d6f20dfa-2c5e-4c57-a8d8-d06b276bba50.svg"></a>&nbsp;&nbsp;
@@ -52,7 +51,7 @@ src="https://img.shields.io/twitter/follow/Shravanbhati01?logo=twitter&style=for
 
 <img src="https://user-images.githubusercontent.com/48355572/272910172-1266ac8f-a1de-43d9-94f9-44a0a90b67a0.png" alt="Activity" width="130px"/>
 <table><tr><td valign="top" width="41%">
-<a href="https://www.instagram.com/dev.shravan.in"><img src="https://res.cloudinary.com/dutfy6mlc/image/upload/v1696511607/j716mmpp877n3lvlvck5.webp" width="418px"></a>
+<a href="https://www.instagram.com/dev.shravanbhati"><img src="https://res.cloudinary.com/dutfy6mlc/image/upload/v1696511607/j716mmpp877n3lvlvck5.webp" width="418px"></a>
 </td><td valign="top" width="40%">
 <a href="https://open.spotify.com/user/31z243m7r4unjzda5dxa4b3reymy"><img src="https://spotify-recently-played-readme.vercel.app/api?user=31z243m7r4unjzda5dxa4b3reymy&width=380&count=2" width="380px"></a>
 </td><td valign="top" width="18%">
