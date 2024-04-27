@@ -24,8 +24,10 @@ I'm Shravan, a web development student currently burning the midnight oil in my 
 src="https://img.shields.io/github/followers/shravanbhati?logo=github&style=for-the-badge&color=ef4444&labelColor=000000" /></a><a href="https://www.x.com/Shravanbhati01" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Shravanbhati01?logo=twitter&style=for-the-badge&color=ef4444&labelColor=000000"/> 
  </a> 
- <a> <img src="https://komarev.com/ghpvc/?username=shravanbhati&label=PROFILE+VIEWS"> &nbsp; <a href="https://discordapp.com/users/944256541937250367"><img src="https://dcbadge.vercel.app/api/shield/944256541937250367?style=flat-square&theme=discord-inverted&&logoColor=presence&&style=social"></a>
-</a> 
+<p align="center"> 
+  Total Visitors<br>
+  <img src="https://profile-counter.glitch.me/shravanbhati/count.svg" />
+</p>
 
 ### Skills
 
