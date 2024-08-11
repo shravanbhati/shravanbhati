@@ -55,7 +55,7 @@ src="https://img.shields.io/twitter/follow/Shravanbhati01?logo=twitter&style=for
 <table><tr><td valign="top" width="41%">
 <a href="https://www.instagram.com/dev.shravanbhati"><img src="https://res.cloudinary.com/dutfy6mlc/image/upload/v1696511607/j716mmpp877n3lvlvck5.webp" width="418px"></a>
 </td><td valign="top" width="40%">
-<a href="https://open.spotify.com/user/31z243m7r4unjzda5dxa4b3reymy"><img src="https://spotify-recently-played-readme.vercel.app/api?user=31z243m7r4unjzda5dxa4b3reymy&width=380&count=2" width="380px"></a>
+<a href="https://open.spotify.com/user/31grxwu5oyaji6sxz6d5etjehv3e"><img src="https://spotify-recently-played-readme.vercel.app/api?user=31z243m7r4unjzda5dxa4b3reymy&width=380&count=2" width="380px"></a>
 </td><td valign="top" width="18%">
 <a href="/"><img src="https://te.legra.ph/file/a8144024985c29a4c81d1.gif" width="100%"></a>
 </td></tr></table>
