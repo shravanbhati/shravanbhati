@@ -14,16 +14,12 @@
 I'm Shravan, a web development student currently burning the midnight oil in my undergrad program. What gets me excited is crafting websites that are user-friendly and visually awesome. Think of it as building online spaces that are easy to navigate and a joy to use. I'm also pretty fascinated by the idea of bots that can automate tasks and make life simpler. While I've got a solid grasp of the essential web dev languages – HTML, CSS, and JavaScript – I'm always learning and exploring new stuff to stay on top of this ever-changing tech world.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [Shravan Bhati's Portfolio](http://shravanbhati.github.io)
+* 🖥️  See my portfolio at [Shravan Bhati's Portfolio](https://links.shravanbhati.site)
 * ✉️  You can contact me at [dev.shravanbhati@gmail.com](mailto:dev.shravanbhati@gmail.com)
 * 🧠  I'm learning Web development
 * 🤝  I'm open to collaborating on Interesting Projects
 * ⚡ I'm Japan Enthusiast
-
-<a href="https://www.github.com/shravanbhati" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/shravanbhati?logo=github&style=for-the-badge&color=ef4444&labelColor=000000" /></a><a href="https://www.x.com/Shravanbhati01" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/Shravanbhati01?logo=twitter&style=for-the-badge&color=ef4444&labelColor=000000"/> 
- </a> 
+ 
 <p align="center"> 
   Total Visitors<br>
   <img src="https://profile-counter.glitch.me/shravanbhati/count.svg" />
