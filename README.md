@@ -8,32 +8,37 @@
 </picture>
 
 <h1 align="center">Hi, 👋 I'm Shravan Bhati</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">Front-End Web Developer</h3>
 
 
-I'm Shravan, a web development student currently burning the midnight oil in my undergrad program. What gets me excited is crafting websites that are user-friendly and visually awesome. Think of it as building online spaces that are easy to navigate and a joy to use. I'm also pretty fascinated by the idea of bots that can automate tasks and make life simpler. While I've got a solid grasp of the essential web dev languages – HTML, CSS, and JavaScript – I'm always learning and exploring new stuff to stay on top of this ever-changing tech world.
+I'm a web development student currently learning JavaScript, and I'm working on three projects: YukiNihongo, Study in Japan, and MEXT Aspirant. YukiNihongo helps students to learn Japanese, Study in Japan provide helpful information on studying in Japan, and through MEXT Aspirant, I assist over 2.5k students with the MEXT Scholarship application process, providing resources and support.
 
-* 🌍  I'm based in India
-* 🖥️  See my portfolio at [Shravan Bhati's Portfolio](https://links.shravanbhati.site)
-* ✉️  You can contact me at [dev.shravanbhati@gmail.com](mailto:dev.shravanbhati@gmail.com)
-* 🧠  I'm learning Web development
-* 🤝  I'm open to collaborating on Interesting Projects
-* ⚡ I'm Japan Enthusiast
+
+<img src="/Assets/my-skills.webp" alt="My Skills" width="150px"/>
+
+ **Languages**
  
+ <img alt="HTML" width="30px" src="https://www.svgrepo.com/show/452228/html-5.svg"/>|<img alt="CSS" width="30px" src="https://www.svgrepo.com/show/373535/css.svg"/>|<img alt="JavaScript" width="30px" src="https://www.svgrepo.com/show/349419/javascript.svg"/>|<img alt="Python" width="30px" src="https://www.svgrepo.com/show/452091/python.svg"/>
+ |--|--|--|--|
+ 
+ **Frameworks**
+ 
+<img alt="tailwindcss" width="30px" src="https://www.svgrepo.com/show/374118/tailwind.svg"/>|
+|--|
+ 
+ **Tools**
+ 
+ <img alt="Windows" width="30px" src="https://www.svgrepo.com/show/382713/windows-applications.svg"/>|<img alt="Git" width="30px" src="https://www.svgrepo.com/show/452210/git.svg"/>|<img alt="VSCode" width="30px" src="https://www.svgrepo.com/show/452129/vs-code.svg"/>|
+|--|--|--|
+
 <p align="center"> 
-  Total Visitors<br>
+  Total Visitors
+</p>
+<p align="center"> 
   <img src="https://profile-counter.glitch.me/shravanbhati/count.svg" />
 </p>
 
-### Skills
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a>
-</p>
-
-### Socials
-
-<p>
+<p align="center">
 <a href="https://twitter.com/shravanbhatii"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971257-f667150e-17c2-469c-8f9f-24810c4ab522.svg"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/shravanbhati"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971352-d164e286-ffd8-4aac-a95b-88e499cdc386.svg"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/dev.shravanbhati"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971691-1a612ff3-ac3b-456a-8237-aa74a423b59c.svg"></a>&nbsp;&nbsp;
@@ -65,20 +70,21 @@ I'm Shravan, a web development student currently burning the midnight oil in my 
 ## Github stats 📊📈
 <!-- Dark Mode -->
 <a href="https://github.com/shravanbhati#gh-dark-mode-only">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=shravanbhati&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,issues,contribs&rank_icon=github&show_icons=true&hide=reviews,discussions_answered,prs,prs_merged&theme=radical&hide_border=true#gh-dark-mode-only" />
+  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=shravanbhati&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,issues,contribs&rank_icon=github&show_icons=true&hide=reviews,discussions_answered,prs,prs_merged&theme=radical&hide_border=true#gh-dark-mode-only" />
 </a>
 <!-- Light Mode -->
 <a href="https://github.com/shravanbhati#gh-light-mode-only">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=shravanbhati&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,issues,contribs&rank_icon=github&show_icons=true&hide=reviews,discussions_answered,prs,prs_merged&theme=shadow_green#gh-light-mode-only" />
+  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=shravanbhati&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,issues,contribs&rank_icon=github&show_icons=true&hide=reviews,discussions_answered,prs,prs_merged&theme=shadow_green#gh-light-mode-only" />
 </a>
+
 <!-- Most used languages -->
 <!-- Dark Mode -->
 <a href="https://github.com/shravanbhati#gh-dark-mode-only">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shravanbhati&layout=compact&langs_count=20&size_weight=0.4&theme=radical&hide_border=true&card_width=404#gh-dark-mode-only" />
+  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shravanbhati&layout=compact&langs_count=20&size_weight=0.4&theme=radical&hide_border=true&card_width=404#gh-dark-mode-only" />
 </a>
 <!-- Light Mode -->
 <a href="https://github.com/dampdigits#gh-light-mode-only">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shravanbhati&layout=compact&langs_count=20&size_weight=0.4&theme=shadow_green&card_width=404#gh-light-mode-only" />
+  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shravanbhati&layout=compact&langs_count=20&size_weight=0.4&theme=shadow_green&card_width=404#gh-light-mode-only" />
 </a>
 
 <!-- Github streak -->
