@@ -1,9 +1,9 @@
 <!-- Banner -->
 <picture>
   <!-- dark theme -->
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shravanbhati/server/main/shravanbhati.site/banner.jpg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shravanbhati/shravanbhati/main/dev.shravanbhati.webp">
   <!-- light theme -->
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shravanbhati/server/main/shravanbhati.site/banner.jpg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shravanbhati/shravanbhati/main/dev.shravanbhati.webp">
   <img alt="banner" src="banner.jpg">
 </picture>
 
