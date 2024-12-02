@@ -21,15 +21,11 @@ I'm a web development student currently learning JavaScript, and I'm working on 
  <img alt="HTML" width="30px" src="https://www.svgrepo.com/show/452228/html-5.svg"/>|<img alt="CSS" width="30px" src="https://www.svgrepo.com/show/373535/css.svg"/>|<img alt="JavaScript" width="30px" src="https://www.svgrepo.com/show/349419/javascript.svg"/>|<img alt="Python" width="30px" src="https://www.svgrepo.com/show/452091/python.svg"/>
  |--|--|--|--|
  
- **Frameworks**
+ **Tools and Technologies**
  
-<img alt="tailwindcss" width="30px" src="https://www.svgrepo.com/show/374118/tailwind.svg"/>|
-|--|
- 
- **Tools**
- 
- <img alt="Windows" width="30px" src="https://www.svgrepo.com/show/382713/windows-applications.svg"/>|<img alt="Git" width="30px" src="https://www.svgrepo.com/show/452210/git.svg"/>|<img alt="VSCode" width="30px" src="https://www.svgrepo.com/show/452129/vs-code.svg"/>|
-|--|--|--|
+
+<img alt="Git" width="30px" src="https://www.svgrepo.com/show/452210/git.svg"/>|<img alt="VSCode" width="30px" src="https://www.svgrepo.com/show/452129/vs-code.svg"/>|<img alt="tailwindcss" width="30px" src="https://www.svgrepo.com/show/374118/tailwind.svg"/>|<img alt="react" width="30px" src="https://www.svgrepo.com/show/452092/react.svg"/>
+|--|--|--|--|
 
 <p align="center"> 
   Total Visitors
