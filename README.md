@@ -11,7 +11,7 @@
 <h3 align="center">Front-End Web Developer</h3>
 
 
-I'm a web development student currently learning JavaScript, and I'm working on three projects: YukiNihongo, Study in Japan, and MEXT Aspirant. YukiNihongo helps students to learn Japanese, Study in Japan provide helpful information on studying in Japan, and through MEXT Aspirant, I assist over 2.5k students with the MEXT Scholarship application process, providing resources and support.
+I'm a web developer, and currently working on three projects: YukiNihongo, Study in Japan, and MEXT Aspirant. YukiNihongo helps students to learn Japanese, Study in Japan provide helpful information on studying in Japan, and through MEXT Aspirant, I assist over 2.5k students with the MEXT Scholarship application process, providing resources and support.
 
 
 <img src="/Assets/my-skills.webp" alt="My Skills" width="150px"/>
