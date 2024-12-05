@@ -35,14 +35,12 @@ I'm a web developer, and currently working on three projects: YukiNihongo, Study
 </p>
 
 <p align="center">
-<a href="https://twitter.com/shravanbhatii"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971257-f667150e-17c2-469c-8f9f-24810c4ab522.svg"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/shravanbhati"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971352-d164e286-ffd8-4aac-a95b-88e499cdc386.svg"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/dev.shravanbhati"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971691-1a612ff3-ac3b-456a-8237-aa74a423b59c.svg"></a>&nbsp;&nbsp;
-<a href="https://discordapp.com/users/944256541937250367"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971778-7a331eb0-d413-4a03-a142-1370a89f6cb2.svg"></a>&nbsp;&nbsp;
-<a href="https://t.me/shravankun"><img height="30" src="https://user-images.githubusercontent.com/48355572/236772531-7db4cd51-557a-4c63-8618-10716786ccde.svg"></a>&nbsp;&nbsp;
-<a href="https://www.youtube.com/@dev.shravanbhati"><img height="30" src="https://user-images.githubusercontent.com/48355572/226551770-c02e6606-b4bf-4cfa-9f95-e36147025a5d.svg"></a>&nbsp;&nbsp;
-<a href="https://dev.to/shravanbhati"><img height="28" src="https://user-images.githubusercontent.com/48355572/212684775-78ac7f41-a3d4-4ceb-910a-2bb635035cc2.png"></a>&nbsp;&nbsp;
-<a href="https://open.spotify.com/user/31z243m7r4unjzda5dxa4b3reymy"><img height="30" src="https://user-images.githubusercontent.com/48355572/213890881-d6f20dfa-2c5e-4c57-a8d8-d06b276bba50.svg"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/shravanbhatii"><img height="30" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-logo-icon.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/shravanbhati"><img height="30" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/dev.shravanbhati"><img height="30" src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000"></a>&nbsp;&nbsp;
+<a href="https://discordapp.com/users/944256541937250367"><img height="30" src="https://img.icons8.com/?size=100&id=30998&format=png&color=000000"></a>&nbsp;&nbsp;
+<a href="https://t.me/shravankun"><img height="30" src="https://img.icons8.com/?size=100&id=oWiuH0jFiU0R&format=png&color=000000"></a>&nbsp;&nbsp;
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/48355572/209539106-8e1cbfc6-2f3d-4afd-b96a-890d967dd9ab.png">
