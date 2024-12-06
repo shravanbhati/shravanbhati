@@ -24,8 +24,8 @@ I'm a web developer, and currently working on three projects: YukiNihongo, Study
  **Tools and Technologies**
  
 
-<img alt="Git" width="30px" src="https://www.svgrepo.com/show/452210/git.svg"/>|<img alt="VSCode" width="30px" src="https://www.svgrepo.com/show/452129/vs-code.svg"/>|<img alt="tailwindcss" width="30px" src="https://www.svgrepo.com/show/374118/tailwind.svg"/>|<img alt="react" width="30px" src="https://www.svgrepo.com/show/452092/react.svg"/>
-|--|--|--|--|
+<img alt="Git" width="30px" src="https://www.svgrepo.com/show/452210/git.svg"/>|<img alt="VSCode" width="30px" src="https://www.svgrepo.com/show/452129/vs-code.svg"/>|<img alt="VSCode" width="30px" src="https://www.svgrepo.com/show/374167/vite.svg"/>|<img alt="tailwindcss" width="30px" src="https://www.svgrepo.com/show/374118/tailwind.svg"/>|<img alt="react" width="30px" src="https://www.svgrepo.com/show/452092/react.svg"/>
+|--|--|--|--|--|
 
 <p align="center"> 
   Total Visitors
