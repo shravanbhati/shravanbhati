@@ -164,14 +164,12 @@ Personal portfolio showcasing all projects with modern design and performance op
 <div align="center">
 
 <img src="https://img.shields.io/badge/🚀_Building-YukiNihongo_V2-FF6B6B?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/📱_Learning-Mobile_Development-4ECDC4?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/⚡_Improving-Performance_Optimization-45B7D1?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/🛠️_Exploring-System_Design-96CEB4?style=for-the-badge&logoColor=white" />
 
 </div>
 
 - **YukiNihongo V2** - Complete redesign with better architecture and user experience
-- **Mobile Optimization** - Making all projects mobile-first and responsive
 - **Performance Tuning** - Optimizing load times and user interactions
 - **New Technologies** - Exploring modern frameworks and development practices
 
