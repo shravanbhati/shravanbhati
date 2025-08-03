@@ -1,108 +1,221 @@
-<!-- Banner -->
-<picture>
-  <!-- dark theme -->
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shravanbhati/shravanbhati/main/dev.shravanbhati.webp">
-  <!-- light theme -->
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shravanbhati/shravanbhati/main/dev.shravanbhati.webp">
-  <img alt="banner" src="banner.jpg">
-</picture>
+<div align="center">
 
-<h1 align="center">Hi, 👋 I'm Shravan Bhati</h1>
-<h3 align="center">Front-End Web Developer</h3>
-
-
-I'm a web developer, and currently working on three projects: YukiNihongo, Study in Japan, and MEXT Aspirant. YukiNihongo helps students to learn Japanese, Study in Japan provide helpful information on studying in Japan, and through MEXT Aspirant, I assist over 2.5k students with the MEXT Scholarship application process, providing resources and support.
-
-
-<img src="/Assets/my-skills.webp" alt="My Skills" width="150px"/>
-
- **Languages**
- 
- <img alt="HTML" width="30px" src="https://www.svgrepo.com/show/452228/html-5.svg"/>|<img alt="CSS" width="30px" src="https://www.svgrepo.com/show/373535/css.svg"/>|<img alt="JavaScript" width="30px" src="https://www.svgrepo.com/show/349419/javascript.svg"/>|<img alt="Python" width="30px" src="https://www.svgrepo.com/show/452091/python.svg"/>
- |--|--|--|--|
- 
- **Tools and Technologies**
- 
-
-<img alt="Git" width="30px" src="https://www.svgrepo.com/show/452210/git.svg"/>|<img alt="VSCode" width="30px" src="https://www.svgrepo.com/show/452129/vs-code.svg"/>|<img alt="VSCode" width="30px" src="https://www.svgrepo.com/show/374167/vite.svg"/>|<img alt="tailwindcss" width="30px" src="https://www.svgrepo.com/show/374118/tailwind.svg"/>|<img alt="react" width="30px" src="https://www.svgrepo.com/show/452092/react.svg"/>
-|--|--|--|--|--|
-
-<p align="center"> 
-  Total Visitors
-</p>
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/shravanbhati/count.svg" />
-</p>
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Shravan+Bhati;Full+Stack+Developer;Building+web+apps" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-<a href="https://twitter.com/shravanbhatii"><img height="30" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-logo-icon.png"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/shravanbhati"><img height="30" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/dev.shravanbhati"><img height="30" src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000"></a>&nbsp;&nbsp;
-<a href="https://discordapp.com/users/944256541937250367"><img height="30" src="https://img.icons8.com/?size=100&id=30998&format=png&color=000000"></a>&nbsp;&nbsp;
-<a href="https://t.me/shravankun"><img height="30" src="https://img.icons8.com/?size=100&id=oWiuH0jFiU0R&format=png&color=000000"></a>&nbsp;&nbsp;
-
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/48355572/209539106-8e1cbfc6-2f3d-4afd-b96a-890d967dd9ab.png">
+  <img src="https://komarev.com/ghpvc/?username=shravanbhati&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/shravanbhati?label=Followers&style=social" alt="GitHub followers" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/48355572/272910172-1266ac8f-a1de-43d9-94f9-44a0a90b67a0.png" alt="Activity" width="130px"/>
-<table><tr><td valign="top" width="41%">
-<a href="https://www.instagram.com/dev.shravanbhati"><img src="https://res.cloudinary.com/dutfy6mlc/image/upload/v1696511607/j716mmpp877n3lvlvck5.webp" width="418px"></a>
-</td><td valign="top" width="40%">
-<a href="https://open.spotify.com/user/31grxwu5oyaji6sxz6d5etjehv3e"><img src="https://spotify-recently-played-readme.vercel.app/api?user=31grxwu5oyaji6sxz6d5etjehv3e&width=380&count=2" width="380px"></a>
-</td><td valign="top" width="18%">
-<a href="/"><img src="https://te.legra.ph/file/a8144024985c29a4c81d1.gif" width="100%"></a>
-</td></tr></table>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/48355572/209539106-8e1cbfc6-2f3d-4afd-b96a-890d967dd9ab.png">
-</p>
+</div>
 
-<!-- Github Stats -->
+## SYSTEM PROFILE
 
-## Github stats 📊📈
-<!-- Dark Mode -->
-<p align="center">
-<a href="https://github.com/shravanbhati#gh-dark-mode-only">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=shravanbhati&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,issues,contribs&rank_icon=github&show_icons=true&hide=reviews,discussions_answered,prs,prs_merged&theme=radical&hide_border=true#gh-dark-mode-only" />
-</a>
-<!-- Light Mode -->
-<a href="https://github.com/shravanbhati#gh-light-mode-only">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=shravanbhati&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,issues,contribs&rank_icon=github&show_icons=true&hide=reviews,discussions_answered,prs,prs_merged&theme=shadow_green#gh-light-mode-only" />
+```bash
+┌─[shravan@terminal]─[~/projects]
+└──╼ $ cat /proc/developer/info
+
+```
+
+```json
+{
+  "metadata": {
+    "name": "Shravan Bhati",
+    "location": {
+      "current": "Rajasthan, India [27.0238° N, 74.2179° E]",
+      "destination": "Tokyo, Japan [35.6762°N, 139.6503°E]",
+    },
+    "status": "Online • Deploying code to production • Learning 日本語",
+    "timezone": "Asia/Kolkata (UTC+05:30)"
+  },
+  "core": {
+    "role": "Full Stack Developer",
+    "specialization": ["Community Systems", "EdTech Platforms", "Automation"],
+    "philosophy": "Ship imperfect solutions that solve real problems",
+    "languages": {
+      "programming": ["JavaScript", "TypeScript", "Python", "Bash", "C# (Very long ago)" ],
+      "human": ["मारवाड़ी", "हिन्दी", "English", "日本語 (Learning)"]
+    }
+  },
+  "projects": {
+    "active_deployments": 4,
+    "users_impacted": 25847,
+    "uptime_sla": "99.97%",
+    "global_reach": "47+ countries"
+  }
+}
+```
+---
+
+## 💻 Tech Stack
+
+<div align="center">
+
+### Programming Languages
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cs&theme=dark" />
 </a>
 
-<!-- Most used languages -->
-<!-- Dark Mode -->
-<a href="https://github.com/shravanbhati#gh-dark-mode-only">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shravanbhati&layout=compact&langs_count=20&size_weight=0.4&theme=radical&hide_border=true&card_width=404#gh-dark-mode-only" />
+### Frontend Development
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" />
 </a>
-<!-- Light Mode -->
-<a href="https://github.com/dampdigits#gh-light-mode-only">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shravanbhati&layout=compact&langs_count=20&size_weight=0.4&theme=shadow_green&card_width=404#gh-light-mode-only" />
+
+### Backend & Database
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,wordpress&theme=dark" />
 </a>
-</p>
-<!-- Github streak -->
-<picture>
-  <!-- Dark Mode -->
-  <source
-    srcset="https://streak-stats.demolab.com?user=shravanbhati&theme=radical&card_width=804&hide_border=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <!-- Light Mode -->
-  <source
-    srcset="https://streak-stats.demolab.com?user=shravanbhati&theme=shadow_green&card_width=804"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img height=250 alt="GitHub Streak" src="https://github.com/shravanbhati" />
-</picture>
 
-<!-- Activity Graph -->
-<!-- Dark Mode -->
-[![Shravan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shravanbhati&theme=redical&hide_border=true#gh-dark-mode-only)](https://github.com/shravanbhati#gh-dark-mode-only)
-<!-- Light Mode -->
-[![Shravan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shravanbhati&theme=github-light#gh-light-mode-only)](https://github.com/shravanbhati#gh-light-mode-only)
+### Tools & Technologies
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel&theme=dark" />
+</a>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/48355572/209539106-8e1cbfc6-2f3d-4afd-b96a-890d967dd9ab.png">
+### Automation & Workflow
+<p>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
+  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" alt="yarn" />
 </p>
+
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### 🌸 YukiNihongo
+**Japanese Learning Platform**
+
+Free Japanese learning tools and resources with interactive exercises and study materials.
+
+[🔗 Visit Project](https://yukinihongo.com)
+
+</td>
+<td width="50%" align="center">
+
+### 📚 StudyInJapan
+**Guide and Resources**
+
+A platform to help international students understand how to study in Japan.
+
+[🔗 Visit Project](https://studyinjapan.in)
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+### 🤝 MEXTAspirant
+**Telegram Community**
+
+Community platform connecting students and providing educational resources with active discussions.
+
+[🔗 View Group](https://t.me/mextaspirant)
+
+</td>
+<td width="50%" align="center">
+
+### 🌐 Japaro Portfolio
+**Project Showcase**
+
+Personal portfolio showcasing all projects with modern design and performance optimization.
+
+[🔗 Visit Project](https://japaro.space)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shravanbhati&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shravanbhati&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shravanbhati&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## 🔥 Current Focus
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/🚀_Building-YukiNihongo_V2-FF6B6B?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/📱_Learning-Mobile_Development-4ECDC4?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/⚡_Improving-Performance_Optimization-45B7D1?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/🛠️_Exploring-System_Design-96CEB4?style=for-the-badge&logoColor=white" />
+
+</div>
+
+- **YukiNihongo V2** - Complete redesign with better architecture and user experience
+- **Mobile Optimization** - Making all projects mobile-first and responsive
+- **Performance Tuning** - Optimizing load times and user interactions
+- **New Technologies** - Exploring modern frameworks and development practices
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=shravanbhati&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shravanbhati&bg_color=1a1b27&color=628fdb&line=628fdb&point=19f4d6&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+## 🌐 Connect with Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/shravanbhati" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:dev.shravanbhati@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://x.com/shravanbhatii" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+</a>
+
+<br>
+<br>
+</div>
+<div align="center">
+<code>Good software is written by humans for humans</code>
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
