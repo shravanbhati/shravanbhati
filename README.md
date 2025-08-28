@@ -52,19 +52,19 @@
 
 ### Backend & Database
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,wordpress&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,bun,express,mongodb&theme=dark" />
 </a>
 
 ### Tools & Technologies
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,ubuntu&theme=dark" />
 </a>
 
 ### Automation & Workflow
 <p>
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
   <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
-  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" alt="yarn" />
+  <img src="https://img.shields.io/badge/PNPM-2C8EBB?style=for-the-badge&logo=pnpm&logoColor=white" alt="yarn" />
 </p>
 
 </div>
@@ -79,44 +79,48 @@
 <tr>
 <td width="50%" align="center">
 
-### 🌸 YukiNihongo
+### <a href="https://yukinihongo.com"> <img src="https://raw.githubusercontent.com/shravanbhati/server/refs/heads/main/shravanbhati.site/logo/YukiNihongo.png" alt="logo" width="20" height="20"></a> YukiNihongo
 **Japanese Learning Platform**
 
-Free Japanese learning tools and resources with interactive exercises and study materials.
+Japanese learning tools and resources with 
+<br> interactive exercises and study materials.
 
-[🔗 Visit Project](https://yukinihongo.com)
+[![Visit](https://img.shields.io/badge/Visit-YukiNihongo-gray)](https://yukinihongo.com)
 
 </td>
 <td width="50%" align="center">
 
-### 📚 StudyInJapan
+### <a href="https://studyinjapan.in"> <img src="https://raw.githubusercontent.com/shravanbhati/server/refs/heads/main/shravanbhati.site/logo/JP%20logo.png" alt="JP" width="20" height="20"></a> Study in Japan
 **Guide and Resources**
 
-A platform to help international students understand how to study in Japan.
+A platform to help international students
+<br> who wants to study in Japan.
 
-[🔗 Visit Project](https://studyinjapan.in)
+[![Visit](https://img.shields.io/badge/Visit-Study_in_Japan-orange)](https://studyinjapan.in)
 
 </td>
 </tr>
 <tr>
 <td width="50%" align="center">
 
-### 🤝 MEXTAspirant
-**Telegram Community**
+### <a href="https://t.me/mextaspirant"> <img src="https://images.weserv.nl/?url=raw.githubusercontent.com/shravanbhati/server/main/shravanbhati.site/logo/Mext%20Aspirant.jpg&h=40&w=40&fit=cover&mask=circle" alt="JP" width="20" height="20"></a> MEXT Aspirant
+**MEXT Scholarship Community**
 
-Community platform connecting students and providing educational resources with active discussions.
+Community connecting students and 
+<br> providing resources with active discussions.
 
-[🔗 View Group](https://t.me/mextaspirant)
+[![Visit](https://img.shields.io/badge/View-MEXT_Aspirant-blue)](https://t.me/mextaspirant)
 
 </td>
 <td width="50%" align="center">
 
-### 🌐 Japaro Portfolio
-**Project Showcase**
+### <a href="https://japaro.space"> <img src="https://images.weserv.nl/?url=https://raw.githubusercontent.com/shravanbhati/server/refs/heads/main/shravanbhati.site/logo/Japaro%20Discord.png&h=40&w=40&fit=cover&mask=circle" alt="Icon" width="18" height="18"></a> Japaro
+**The Space Between You and Japan**
 
-Personal portfolio showcasing all projects with modern design and performance optimization.
+Making information more accessible, 
+<br> more accurate, and way easier to follow 
 
-[🔗 Visit Project](https://japaro.space)
+[![Visit](https://img.shields.io/badge/Visit-Japaro-1F51FF)](https://japaro.space)
 
 </td>
 </tr>
@@ -126,7 +130,7 @@ Personal portfolio showcasing all projects with modern design and performance op
 
 ---
 
-## 📊 GitHub Statistics
+## <a href="#"> <img src="https://cdn-icons-png.flaticon.com/512/164/164424.png" width="22" height="22"></a> GitHub Statistics
 
 <div align="center">
 
@@ -142,31 +146,6 @@ Personal portfolio showcasing all projects with modern design and performance op
 
 </div>
 
----
-
-## 🔥 Current Focus
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/🚀_Building-YukiNihongo_V2-FF6B6B?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/⚡_Improving-Performance_Optimization-45B7D1?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/🛠️_Exploring-System_Design-96CEB4?style=for-the-badge&logoColor=white" />
-
-</div>
-
-- **YukiNihongo V2** - Complete redesign with better architecture and user experience
-- **Performance Tuning** - Optimizing load times and user interactions
-- **New Technologies** - Exploring modern frameworks and development practices
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=shravanbhati&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
-
-</div>
 
 ---
 
@@ -180,7 +159,7 @@ Personal portfolio showcasing all projects with modern design and performance op
 
 ---
 
-## 🌐 Connect with Me
+## <a href="#"> <img src="https://cdn-icons-png.flaticon.com/512/14942/14942029.png" width="22" height="22"></a> Connect with Me
 
 <div align="center">
 
