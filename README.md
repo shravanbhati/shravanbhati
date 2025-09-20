@@ -14,16 +14,16 @@
       "current": "Rajasthan, India [27.0238° N, 74.2179° E]",
       "destination": "Tokyo, Japan [35.6762°N, 139.6503°E]",
     },
-    "status": "Online • Deploying code to production • Learning 日本語",
+    "status": "Online",
     "timezone": "Asia/Kolkata (UTC+05:30)"
   },
   "core": {
     "role": "Full Stack Developer",
-    "specialization": ["Community Systems", "EdTech Platforms", "Automation"],
+    "specialization": ["AI Agents", "Web Tools", "Automation"],
     "philosophy": "Ship imperfect solutions that solve real problems",
     "languages": {
-      "programming": ["JavaScript", "TypeScript", "Python", "Bash", "C# (Very long ago)" ],
-      "human": ["मारवाड़ी", "हिन्दी", "English", "日本語 (Learning)"]
+      "programming": ["TypeScript", "Python"],
+      "human": ["मारवाड़ी", "हिन्दी", "English", "日本語"]
     }
   },
   "projects": {
@@ -42,7 +42,7 @@
 
 ### Programming Languages
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,cs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python&theme=dark" />
 </a>
 
 ### Frontend Development
@@ -170,14 +170,11 @@ Making information more accessible,
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://x.com/shravanbhatii" target="_blank">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  <img src="https://img.shields.io/badge/𝕏-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
 </a>
 
 <br>
 <br>
-</div>
-<div align="center">
-<code>Good software is written by humans for humans</code>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
