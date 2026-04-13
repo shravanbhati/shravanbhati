@@ -14,7 +14,7 @@
       "current": "Tokyo, Japan [35.6762°N, 139.6503°E]",
     },
     "status": "Online",
-    "timezone": "Asia/Kolkata (UTC+05:30)"
+    "timezone": "Asia/Tokyo (UTC+9:00)"
   },
   "core": {
     "role": "Full Stack Developer",
